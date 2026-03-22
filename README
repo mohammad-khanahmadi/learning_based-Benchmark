@@ -1,0 +1,17 @@
+# Learning-based and classical methods Benchmark Logs
+
+This repository contains experimental logs for the paper:
+
+"A Benchmark Study of Deep Reinforcement Learning and Classical Control Methods for Autonomous Overtaking"
+
+## Contents
+- APF logs
+- MPC logs
+- DDPG training logs
+- SAC training logs
+
+## Description
+The logs include performance metrics such as:
+- Success rate
+- Reward evolution
+- Vehicle states
