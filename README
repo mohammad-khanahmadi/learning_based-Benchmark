@@ -7,11 +7,12 @@ This repository contains experimental logs for the paper:
 ## Contents
 - APF logs
 - MPC logs
-- DDPG training logs
-- SAC training logs
+- DDPG logs
+- SAC logs
 
 ## Description
 The logs include performance metrics such as:
 - Success rate
 - Reward evolution
 - Vehicle states
+Due to GitHub file size constraints, only one representative log file per algorithm is included in this repository. These logs are intended to demonstrate the performance characteristics of each method. 
